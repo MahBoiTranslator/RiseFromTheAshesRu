@@ -2455,22 +2455,6 @@ DestroyableBridges=yes
 01000098=GDI,<none>,M attack 3,0,1,1,1,0
 01000102=Nod,<none>,made enemy 2,0,1,1,1,0
 
-[Tutorial]
-73=Commando killed, Mission Failed.
-74=Engineer killed, Mission Failed.
-75=Command Center Destroyed, Mission Failed.
-76=Objective one: Locate the Commander Center and capture it with an Engineer.
-77=Commando: Ohh shoot Flame towers, I sure get burned if I get too close, they must get power from somewhere.
-78=Commando: Hey! there is an outpost here, there must be a power source in here.
-79=Commando: Hey! there is an outpost here, these Power Plants must be powering something.
-80=Commando: There is the Command Center, ohh hell it's guarded by more Flame Towers, I have to disable them first.
-81=Commando: There is another outpost, these Power Plants might be providing power to those Flame Towers.
-82=Commando: Another outpost? those Power Plants might be powering more base defenses.
-83=Commando: There is the Command Center, I hope to by destroying those power plants that have disabled these Flame Towers.
-84=Engineer: there is so much intel in here.
-85=Engineer: Ohh here is something, this enemy they called them selfs The Empire of the holy Crystal.
-86=Engineer: We better bring this back to GDI Command and find out more about this.
-
 [Units]
 0=Nod,HARV,256,56,109,64,Guard,None,0,-1,0,-1,1,0
 

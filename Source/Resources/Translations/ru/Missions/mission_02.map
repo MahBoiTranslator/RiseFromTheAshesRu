@@ -5993,25 +5993,6 @@ DestroyableBridges=yes
 4=107,115,0,138,88,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
 5=138,88,4,107,115,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,4,4,4,4,4,4,4,4,4,4,4,-1
 
-[Tutorial]
-7=Hey, that looks like an old Cult Base, we did dealt with a Cult manny years ago.
-8=GDI Soldier: What's this, looks like an old pizzeria.
-9=GDI Soldier: I, ve heard stories about disappearances, and the place become haunted.
-10=GDI FORCES ARE HERE! Destroy the bridge.
-11=Damm, they destroyed that bridge, we have to find another way around.
-12=Look there is an outpost guarding a tunnel, I wonder where it leads.
-13=Objective one: Capture the Comm Array.
-14=Objective two: Destroy all enemy forces.
-15=Objective three: Don't lose the Comm array.
-16=All enemy forces have been eliminated, objective complete.
-17=Comm Array Captured, objective complete.
-18=Comm Array Destroyed, your mission is a failure.
-19=Good work Commander, Now remove the remaining enemy forces.
-20=Your next mission is to capture an Comm array in this area.
-21=We need to find out what they are and what they are up to.
-22=The Comm Array is located here, get an engineer inside, do not get it destroyed.
-23=Good Luck.
-
 [Units]
 0=GDI,MMCH,256,26,87,64,Guard,None,0,-1,0,-1,1,0
 1=GDI,MMCH,256,25,91,64,Guard,None,0,-1,0,-1,1,0

@@ -157,21 +157,6 @@ TechLevel=10
 PercentBuilt=100
 PlayerControl=no
 
-[Tutorial]
-51=Nod Soldier: Hold it right there, I must know what you are carrying before I let you pass.
-52=Truck Driver: I am delivering the CABAL Fragment to this research facility.
-53=Nod soldier: Alright you're good to go, the research facility is just up ahead, they are expecting you.
-54=Truck Driver: I have a package that I am supposed to deliver here.
-55=Nod scientist: Ahh you must be the guy that is carrying the last CABAL fragment.
-56=Truck Driver: That's right if it was not for this New Recruit I don't know if I was able to escape that hell hole.
-57=Truck Driver: I deserve a break after getting this fragment undercover of an ion storm.
-58=Nod scientist: Alright, I il take it from here, now get out of here.
-59=Nod scientist: Now with this final CABAL fragment, we can finally finish what Kane started.
-60=Installing final CABAL fragment.
-61=Activting CABAL's core.
-62=CABAL Online.
-63=Nod scientist: Now with a new face for the brotherhood, we will avenge him. Kane lives in death.
-
 [civ1]
 IQ=0
 Edge=West

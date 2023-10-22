@@ -12118,17 +12118,6 @@ DestroyableBridges=yes
 01000473=Neutral,<none>,Obj 2 remind,0,1,1,1,0
 01000475=Nod3,<none>,make enemy 4,0,1,1,1,0
 
-[Tutorial]
-129=Objective one: Defend the administration building.
-130=Objective two: Destroy all enemy forces.
-131=The administration building has been destroyed, Mission failed.
-132=All enemy forces have been destroyed, Mission complete.
-133=The administration building is under serious attack.
-134=We can't let it fall to the enemy.
-135=Commander, glad you're here.
-136=We must defend the administration building.
-137=We grant you control over this base, do whatever you need to do, Good luck.
-
 [Units]
 0=Nod,HARV,256,185,148,64,Guard,None,0,-1,0,-1,1,0
 1=Nod,HARV,256,185,181,64,Guard,None,0,-1,0,-1,1,0

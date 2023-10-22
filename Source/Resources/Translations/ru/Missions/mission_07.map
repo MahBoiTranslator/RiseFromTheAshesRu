@@ -8903,16 +8903,6 @@ PlayerControl=no
 01000377=GDI,<none>,M Air Attack ,0,1,1,1,0
 01000385=GDI,<none>,E Air Attack,0,1,1,1,0
 
-[Tutorial]
-87=Objective One: Destroy all enemy forces in the area.
-88=All enemy forces has been destroyed, Objective complete.
-89=Objective two: Capture the Tech Center that holds the stolen stealth technology.
-90=Tech Center Captured, Objective complete.
-91=All Objectives has been completed, Mission Accomplished.
-92=Those bastards dare to steal our stealth technology!
-93=hope they don't mind us paying them a visit and asking nicely.
-94=By annihilating them from this area.
-
 [Units]
 0=GDI,HARV,256,65,77,64,Sleep,01000297,0,-1,0,-1,1,0
 1=GDI,HARV,256,103,54,64,Sleep,01000297,0,-1,0,-1,1,0

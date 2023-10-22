@@ -1191,27 +1191,6 @@ TiberiumSpreads=yes
 TiberiumExplosive=no
 DestroyableBridges=yes
 
-[Tutorial]
-138=Objective one: Guide the Commando to the city entrance.
-139=Objective two: Clear the city's outskirts of all enemy forces.
-140=Commando killed, aborting mission.
-141=Commando: Oh dam, there is a base here I never get past that.
-142=Commando: Shoot, that gate is blocking my way, there must be a way to disable those flame towers.
-143=Commando: Found an outpost here, desrtoying those power plants may disable something.
-144=Commando: That looks like a way in, oh dam it, there are more defenses here, I must disable them first.
-145=Commando: There is another base there, getting in there would not be a good idea if I want to live, unless, I have a death wish.
-146=Commando: There are more powerplants, I bet destroying those will disable some defenses.
-147=Commando: I have reached the city entrance.
-148=Commando: I will sabotage as much as I can before the attack takes place, wish me luck.
-149=6 Hours later.
-150=Warning, the enemy has built two missile silos in the area.
-151=Commando: That looks like a way in, Those Flame turrets apears to be offline.
-152=Commando: Shoot, that gate is blocking my way, by the looks of it those Flame turrets looks non opernatial.
-153=The Radar Center can now be upgraded with the Ion Cannon Uplink.
-154=The Ion cannon Uplink allows the Radar Center to make contact with the Ion Cannon satellite.
-155=However, it needs 8 minutes to recharge in between each use, so, use it wisely.
-156=The Ion Cannon Uplink can be built after you have constructed a Tech Center.
-
 [air]
 IQ=0
 Edge=North

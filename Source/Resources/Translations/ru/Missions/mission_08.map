@@ -11753,16 +11753,6 @@ PlayerControl=no
 01000480=GDI,<none>,reveal map,0,1,1,1,0
 01000482=GDI,<none>,set song,0,1,1,1,0
 
-[Tutorial]
-95=Objective one: Defend the Kodiak.
-96=Objecitve two: Wait until reinforcements have arrived.
-97=Objective three: Remove all enemy forces from the area.
-98=Solomon: This is our landing side for the Kodiak.
-99=Solomon: McNeil and his crew are waiting to take off.
-100=Solomon: But you must deal with the threat first, the Kodiak can't take off while the enemy is still in the area.
-102=Sir, I have reports that the enemy just finished constructing 2 bases, you have orders to take them out, over.
-103=The Kodiak has been destroyed, Mission failed.
-
 [Units]
 0=Nod,HARV,256,73,140,64,Sleep,None,0,-1,0,-1,1,0
 1=Nod,HARV,256,77,133,64,Sleep,None,0,-1,0,-1,1,0

@@ -5516,17 +5516,6 @@ DestroyableBridges=yes
 01000198=GDI,<none>,harpy B,0,1,1,1,0
 01000200=GDI,<none>,harpy C,0,1,1,1,0
 
-[Tutorial]
-64=Move it! move it! fall back to the base.
-65=The enemy is all over this area.
-66=These guys don't look like GDI at all.
-67=Its only a matter of time until they return.
-68=This Armory base is not well defended, so hold-out reinforcements will arrive in 20 minutes, sit tight.
-69=Objective one: Defend the Armory Base.
-70=Objective two: Destroy all enemy forces in the area.
-71=Reinforcements have arrived, they have elite ranks, forces with ranks are strogner overal, they have more armor they can heal them selfs, and have better combat experiences.
-72=All enemy forces has been removed, the Armory base has been saved, Mission Complete.
-
 [Units]
 0=GDI1,HARV,256,94,44,64,Guard,None,0,-1,0,-1,1,0
 1=GDI,HARV,256,103,129,64,Guard,None,0,-1,0,-1,1,0

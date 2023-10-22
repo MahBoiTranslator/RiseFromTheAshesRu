@@ -4352,20 +4352,6 @@ DestroyableBridges=no
 01000132=GDI,<none>,lock input,0,1,1,1,0
 01000134=Player'sTruck,<none>,re add lose,0,1,1,1,0
 
-[Tutorial]
-39=Alright, we need to find our old base in the area.
-40=Find the fragment and get the hell out of there.
-41=Gladly there is no ion storm right now.
-42=WHAT THE...
-43=No ion storm ey, you had to open your mouth.
-44=Cut the chatter, lets's find this fragment before the ion storm zaps us.
-45=Objective one: Find the old Nod base and get CABAL's fragment.
-46=There is the old base get that truck to that old Temple.
-47=Truck: Alright where are loading up the fragment, cover us.
-48=Damm it! the ion storm destroyed the bridge we need to find another way out.
-49=There! there is a way out of this cursed place.
-50=Objective two: Get the Loaded Truck out of this area.
-
 [Units]
 0=Civ2,LOCOMOTIVE,77,90,58,32,Sleep,None,0,-1,0,-1,1,0
 1=Civ2,TRAINCAR,74,87,59,96,Sleep,None,0,-1,0,-1,1,0

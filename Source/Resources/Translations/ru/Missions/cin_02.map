@@ -3153,22 +3153,6 @@ DestroyableBridges=yes
 01000103=Neutral,<none>,fade out,0,1,1,1,0
 01000105=Neutral,<none>,hide map,0,1,1,1,0
 
-[Tutorial]
-104=GDI soldier: Good morning sir, looks like you're running late.
-105=General: My apologies, I was called for this meeting at the very last minute, I came as fast as I could.
-106=GDI soldier: Very well, come on in, take the first turn right, then you can't miss the Water Purification plant, for your meeting.
-107=Solomon: You're late.
-108=General: Yeah I know, my apologies, I received the message very late.
-109=Solomon: Very well, so what are we dealing with?
-110=General: It's not Nod sir it's something else.
-111=General: They where formerly known as a Cult, and GDI has stopped them.
-112=General: Their leader Seth a former Nod member was killed during our final assault against the Cult, all these years ago.
-113=General: We thought we defeated them, well apparently not completely.
-114=General: They have been reformed and are now known as The Empire of the holy Crystal, formerly known as The cult of the Green Crystal.
-115=General: they pose a serious threat than before, we have to do something about it.
-116=Solomon: So I hear.
-117=Solomon: I will inform the Commander, that there be more work to be done, where taking the fight to them.
-
 [Units]
 0=red,PICK,256,136,67,128,Guard,None,0,-1,0,-1,1,0
 1=blue,CAR,256,138,67,128,Guard,None,0,-1,0,-1,1,0
