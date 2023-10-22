@@ -719,10 +719,14 @@ IgnoreGlobalAITriggers=yes
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Strange activity detected.
-2=@Troops has been deployed to investigate.
-3=@you have orders to investigate the area and eliminate any threat you see.
-4=@@Ojective one: Investigate the area and eliminate any threat.@
+1=В регионе замечена подорительная активность.
+2=Были отправлены войска, чтобы узнать причину.
+3=Вам приказано разведать регион и устранить все угрозы, какие найдёте.@@
+4=Задача 1: Разведайте регион и устраните все угрозы.
+; 1=Strange activity detected.
+; 2=@Troops has been deployed to investigate.
+; 3=@you have orders to investigate the area and eliminate any threat you see.
+; 4=@@Ojective one: Investigate the area and eliminate any threat.@
 
 [CellTags]
 35054=01000076
@@ -2220,14 +2224,6 @@ DestroyableBridges=no
 01000071=GDI,<none>,set music,0,1,1,1,0
 01000073=GDI,<none>,see,0,1,1,1,0
 01000075=GDI,<none>,see 2,0,1,1,1,0
-
-[Tutorial]
-1=Welcome Commander, to your first assignment.
-2=We are reading some strange activities in the area.
-3=So your task is to investigate the area and eliminate any threat you encounter.
-4=Objective one: Investigate the area and eliminate any treat.
-5=Looks like an Old Nod base from the tiberium war years ago.
-6=WHAT THE HELL! They have a base here.
 
 [Units]
 0=Nod,HARV,256,49,63,64,Guard,None,0,-1,0,-1,1,0
