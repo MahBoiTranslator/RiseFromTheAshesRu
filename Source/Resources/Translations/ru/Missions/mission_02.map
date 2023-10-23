@@ -3,11 +3,11 @@
 ; note that all comments were truncated
 
 [CAARAY]
-Name=Comm Array
+Name=Узел связи;Comm Array
 Capturable=true
 
 [CITY10]
-Name=Old Pizzaria
+Name=Старая пиццерия;Old Pizzaria
 
 [E2]
 Owner=GDI,Nod
@@ -2338,11 +2338,16 @@ IgnoreGlobalAITriggers=yes
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Comm Array in the area holds intel about this new threat.
-2=@Move in capture the Comm array, DO not get it destroyed.
-3=@@Objective one: Capture the Comm Array.
-4=@Objective two: Destroy all enemy forces.
-5=@Objective tree: Don't lose the Comm array.
+1=Узел связи этого региона содержит разведданные о новой угрозе.
+2=Выдвигайтесь для захвата узла связи. Не доспустите его уничтожения.@@
+3=Задача 1: Захватите узел связи.@
+4=Задача 2: Уничтожьте все вражеские войска.@
+5=Задача 3: Не потеряйте узел связи.
+; 1=Comm Array in the area holds intel about this new threat.
+; 2=@Move in capture the Comm array, DO not get it destroyed.
+; 3=@@Objective one: Capture the Comm Array.
+; 4=@Objective two: Destroy all enemy forces.
+; 5=@Objective tree: Don't lose the Comm array.
 
 [CellTags]
 65105=01000028
