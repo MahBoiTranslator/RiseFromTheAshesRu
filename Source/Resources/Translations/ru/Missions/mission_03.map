@@ -1890,9 +1890,12 @@ IgnoreGlobalAITriggers=yes
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Now entering Nod training ground sector 5.
-2=@@Objective one: Destroy three towns in the area.
-3=@Objective two: Destroy the Dummy base.
+1=Отправляйтесь в тренировочный комплекс в 5-ом секторе.@@
+2=Задача 1: Уничтожьте 3 города в регионе.@
+3=Задача 2: Уничтожьте тренировочную базу.
+; 1=Now entering Nod training ground sector 5.
+; 2=@@Objective one: Destroy three towns in the area.
+; 3=@Objective two: Destroy the Dummy base.
 
 [CellTags]
 37111=01000228
