@@ -30,7 +30,7 @@ Strength=300
 SelfHealing=yes
 
 [TRUCKB]
-Name=Truck Loaded with Cabal fragment
+Name=Грузовик с фрагментом КАБАЛа;Truck Loaded with Cabal fragment
 Strength=300
 SelfHealing=yes
 
@@ -509,10 +509,14 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Warning, Heavy presence of Tiberium life forms detected.
-2=@Probability of an ion storm is high, caution is advised.
-3=@@Objective one: Find the old Nod base and get CABAL's fragment.
-4=@Objective two: Get the Loaded Truck out of this area.
+1=Внимание. Замечено большое скопление тибериевых форм жизни.
+2=Высокая вероятность ионной бури. Действуйте с осторожностью.@@
+3=Задача 1: Найдите старую базу Нод и заберите фрагмент КАБАЛа.@
+4=Задача 2: Вывезите загружённый грузовик из региона.
+; 1=Warning, Heavy presence of Tiberium life forms detected.
+; 2=@Probability of an ion storm is high, caution is advised.
+; 3=@@Objective one: Find the old Nod base and get CABAL's fragment.
+; 4=@Objective two: Get the Loaded Truck out of this area.
 
 [CellTags]
 61124=01000113
