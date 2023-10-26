@@ -43,7 +43,8 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Now arriving to Nod Reseach Facility.
+1=По пути в исследовательский комплекс Нод.
+; Now arriving to Nod Reseach Facility.
 
 [GDI]
 IQ=5
