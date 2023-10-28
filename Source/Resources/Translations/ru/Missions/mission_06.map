@@ -418,9 +418,12 @@ IgnoreGlobalAITriggers=yes
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Commando: I have arrived now let's find this Command center.
-2=@I must be careful I don't know whats ahead.
-3=@@Objective one: Locate the Commander Center and capture it with an Engineer.
+1=Командос: Я прибыл. Давайте найдём этот Штаб.
+2=Я должен быть осторожнее, т.к. не знаю, что ждёт впереди.@@
+3=Задача 1: Найдите Штаб и захватите его при помощи Инженера.
+; 1=Commando: I have arrived now let's find this Command center.
+; 2=@I must be careful I don't know whats ahead.
+; 3=@@Objective one: Locate the Commander Center and capture it with an Engineer.
 
 [CellTags]
 48085=01000099
