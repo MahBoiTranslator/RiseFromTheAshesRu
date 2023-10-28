@@ -495,7 +495,8 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=The meeting is nearby, I am already late as it is.
+1=¬стреча недалеко, € и так уже опаздываю.
+;The meeting is nearby, I am already late as it is.
 
 [CellTags]
 68137=01000037
