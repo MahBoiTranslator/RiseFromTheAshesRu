@@ -2221,11 +2221,16 @@ IgnoreGlobalAITriggers=yes
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Armoy base on high alert.
-2=@Unknown enemy forces in the area.
-3=@The Armory base must not fall.
-4=@@Objective one: Defend the Armory Base.
-5=@Objective two: Destroy all enemy forces in the area.
+1=Аванпост поднял боевую тревогу.
+2=Неизвестные войска вошли в регион.
+3=Аванпост не должен быть уничтожен.@@
+4=Задача 1: Защитите аванпост.@
+5=Задача 2: Уничтожьте все вражеские войска в регионе.@
+; 1=Armoy base on high alert.
+; 2=@Unknown enemy forces in the area.
+; 3=@The Armory base must not fall.
+; 4=@@Objective one: Defend the Armory Base.
+; 5=@Objective two: Destroy all enemy forces in the area.
 
 [CellTags]
 98057=01000168
