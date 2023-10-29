@@ -4486,13 +4486,20 @@ IgnoreGlobalAITriggers=yes
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=The Tech Center must be somewhere in this area.
-2=@but there is a lot of enemy activity so it must be close
-3=@@Objective One: Destroy all enemy forces in the area.
-4=@Objective two: Capture the Tech Center that holds the stolen stealth technology.
-5=@@[Gameplay tip]
-6=@The Sensor tower can be used to detect stealth in its scan radius.
-7=@The Mobile Expansion post can be used to exspand your base without building a new MCV, once deployed it can not be packed up again.
+1=Техцентр находится где-то в регионе.
+2=Тем не менее, в регионе высокая активность вражеских войск, так что он должен быть близко.@@
+3=Задача 1: Уничтожьте все вражеские войска в регионе.@
+4=Задача 2: Захватите Техцентр, в котором содержится украденная технология маскировки.@@
+5=[Подсказки]@
+6=1. Сенсорные вышки обнаруживают замаскированные объекты.@
+7=2. Мобильный Аванпост Расширения увеличивает зону строительства и не может быть свёрнут.@
+; 1=The Tech Center must be somewhere in this area.
+; 2=@but there is a lot of enemy activity so it must be close
+; 3=@@Objective One: Destroy all enemy forces in the area.
+; 4=@Objective two: Capture the Tech Center that holds the stolen stealth technology.
+; 5=@@[Gameplay tip]
+; 6=@The Sensor tower can be used to detect stealth in its scan radius.
+; 7=@The Mobile Expansion post can be used to exspand your base without building a new MCV, once deployed it can not be packed up again.
 
 [CellTags]
 79182=01000294
