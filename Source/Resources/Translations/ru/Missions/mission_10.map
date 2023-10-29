@@ -6222,13 +6222,20 @@ IgnoreGlobalAITriggers=yes
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Area is heavily contaminated by Tiberium infestations.
-2=@Ion storms are likely to occur.
-3=@@Objective one: Defend the administration building.
-4=@Objective two: Destroy all enemy forces.
-5=@@[Gameplay tip]
-6=@The administration building repairs are slow.
-7=@Use engineers to repair it.
+1=Регион сильно заражён тиберием.
+2=Высокая вероятность возникновения ионных бурь.@@
+3=Задача 1: Защищайте здание администрации.@
+4=Задача 2: Уничтожьте все вражеские войска.@@
+5=[Подсказка]@
+6=Здание администрации ремонтируется медленно.
+7=Используйте Инженера, чтобы отремонтировать его.
+; 1=Area is heavily contaminated by Tiberium infestations.
+; 2=@Ion storms are likely to occur.
+; 3=@@Objective one: Defend the administration building.
+; 4=@Objective two: Destroy all enemy forces.
+; 5=@@[Gameplay tip]
+; 6=@The administration building repairs are slow.
+; 7=@Use engineers to repair it.
 
 [CellTags]
 
