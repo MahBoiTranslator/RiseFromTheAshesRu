@@ -5651,15 +5651,24 @@ IgnoreGlobalAITriggers=yes
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Warning: The Kodiak is under attack.
-2=@Base Damage is critical.
-3=@Reinforcements has been called.
-4=@@Objective one: Defend the Kodiak.
-5=@Objecitve two: Wait until reinforcements have arrived.
-6=@Objective tree: Await further orders.
-7=@@[Gameplay tip]
-8=@Repairing the Kodiak is expensive and slow.
-9=@Make sure you have credits for repairs.
+1=Внимание: Кадьяк атакован.
+2=Критические повреждения базы.
+3=Подкрепление вызвано.@@
+4=Задача 1: Защитите Кадьяк.@
+5=Задача 2: Дождитесь прибытия подкрепления.@
+6=Задача 3: Ожидайте дальнейших приказов.@@
+7=[Подсказка]@
+8=Ремонт Кадьяка дорогой и медленный.
+9=Убедитесь, что у вас достаточно денег для ремоента.
+; 1=Warning: The Kodiak is under attack.
+; 2=@Base Damage is critical.
+; 3=@Reinforcements has been called.
+; 4=@@Objective one: Defend the Kodiak.
+; 5=@Objecitve two: Wait until reinforcements have arrived.
+; 6=@Objective tree: Await further orders.
+; 7=@@[Gameplay tip]
+; 8=@Repairing the Kodiak is expensive and slow.
+; 9=@Make sure you have credits for repairs.
 
 [CellTags]
 
