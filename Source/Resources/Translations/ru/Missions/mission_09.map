@@ -3,10 +3,10 @@
 ; note that all comments were truncated
 
 [CA0011]
-Name=Fuel tank
+Name=Топливный Танк;Fuel tank
 
 [CA0013]
-Name=Fuel pump
+Name=Топливная Помпа;Fuel pump
 
 [E2]
 Owner=GDI,Nod
@@ -1443,10 +1443,14 @@ IgnoreGlobalAITriggers=yes
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Alright soldiers where are almost there, repare for anything.
-2=@We must find the enemy fuel supply depot.
-3=@@Objective one: Clear the landing zone by destroying the Sam sites.
-4=@Objective two: Desrtoy the enemy Fuel supply depot.
+1=Итак, солдаты почти прибыли. Будьте готовы ко всему.
+2=Мы должны найти вражеские склады горючего.@@
+3=Задача 1: Очистите зону высадки, уничтожив ПВО.@
+4=Задача 2: Уничтожьте вражеские склады горючего топлива.
+; 1=Alright soldiers where are almost there, repare for anything.
+; 2=@We must find the enemy fuel supply depot.
+; 3=@@Objective one: Clear the landing zone by destroying the Sam sites.
+; 4=@Objective two: Desrtoy the enemy Fuel supply depot.
 
 [CellTags]
 18100=01000160
