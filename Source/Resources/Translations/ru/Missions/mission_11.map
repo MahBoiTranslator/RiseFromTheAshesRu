@@ -712,10 +712,14 @@ IgnoreGlobalAITriggers=yes
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Commando.
-2=@@Alright I have made it, Commander, I am awaiting your orders.
-3=@@Objective one: Guide the Commando to the city entrance.
-4=@Objective two: Clear the city's outskirts of all enemy forces.
+1=Командос: 
+2=Итак, я на месте, Командир. Жду ваших приказов.@@
+3=Задача 1: Проведите Командоса в город.@
+4=Задача 2: Зачистите окрестности города от всех вражеских войск.
+; 1=Commando.
+; 2=@@Alright I have made it, Commander, I am awaiting your orders.
+; 3=@@Objective one: Guide the Commando to the city entrance.
+; 4=@Objective two: Clear the city's outskirts of all enemy forces.
 
 [GDI]
 IQ=0
