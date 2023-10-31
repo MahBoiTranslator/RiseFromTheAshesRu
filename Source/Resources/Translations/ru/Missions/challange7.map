@@ -98,7 +98,7 @@ LightVisibility=2000
 DamageParticleSystems=SparkSys
 
 [SLAV]
-Name=Assassin
+Name=Ассасин;Assassin
 Nominal=yes
 Primary=sniper
 
@@ -1701,9 +1701,12 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=yes
 
 [Briefing]
-1=Grassy Knoll: Challenge
-2=@@Defeat all opponents in the area to win.
-3=@@Good luck.
+1=Испытание: Grassy Knoll.@@
+2=Уничтожьте всех противников в регионе, чтобы выйграть.@@
+3=Удачи.
+; 1=Grassy Knoll: Challenge
+; 2=@@Defeat all opponents in the area to win.
+; 3=@@Good luck.
 
 [GDI]
 IQ=0

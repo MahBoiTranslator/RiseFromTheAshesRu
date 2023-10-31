@@ -47,7 +47,7 @@ AIBuildThis=no
 TechLevel=-1
 
 [YELWLAMP]
-Name=Lightgreen Light Post
+Name=Светло-зелёный Фонарь;Lightgreen Light Post
 Owner=GDI,Nod
 LightRedTint=0.1
 LightBlueTint=0.4
@@ -1454,9 +1454,12 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=yes
 
 [Briefing]
-1=Theme Park: Challenge
-2=@@Defeat all opponents in the area to win.
-3=@@Good luck.
+1=Испытание: Theme Park.@@
+2=Уничтожьте всех противников в регионе, чтобы выйграть.@@
+3=Удачи.
+; 1=Theme Park: Challenge
+; 2=@@Defeat all opponents in the area to win.
+; 3=@@Good luck.
 
 [GAPLUG3]
 TechLevel=10

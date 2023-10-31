@@ -66,7 +66,7 @@ AIBuildThis=no
 TechLevel=-1
 
 [YELWLAMP]
-Name=Lightgreen Light Post
+Name=Светло-зелёный Фонарь;Lightgreen Light Post
 Owner=GDI,Nod
 LightRedTint=0.1
 LightBlueTint=0.4
@@ -846,9 +846,12 @@ AltHomeCell=99
 CarryOverMoney=0
 
 [Briefing]
-1=Tiers of Sorrow: Challenge
-2=@@Defeat all opponents in the area to win.
-3=@@Good luck.
+1=Испытание: Tiers of Sorrow.@@
+2=Уничтожьте всех противников в регионе, чтобы выйграть.@@
+3=Удачи.
+; 1=Tiers of Sorrow: Challenge
+; 2=@@Defeat all opponents in the area to win.
+; 3=@@Good luck.
 
 [GDI]
 IQ=0

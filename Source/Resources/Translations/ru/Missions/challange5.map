@@ -81,7 +81,7 @@ Storage=40
 TechLevel=-1
 
 [YELWLAMP]
-Name=Lightgreen Light Post
+Name=Светло-зелёный Фонарь;Lightgreen Light Post
 Owner=GDI,Nod
 LightRedTint=0.1
 LightBlueTint=0.4
@@ -1785,10 +1785,14 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=yes
 
 [Briefing]
-1=DrawBridges: Challenge
-2=@@Defeat all opponents in the area to win.
-3=@@You have some back up, make sure that both you and your ally survives.
-4=@@Good luck.
+1=Испытание: Drawbridges.@@
+2=Уничтожьте всех противников в регионе, чтобы выйграть.@@
+3=У вас будет поддержка, если вы с вашим союзником выживите.@@
+4=Удачи.
+; 1=DrawBridges: Challenge
+; 2=@@Defeat all opponents in the area to win.
+; 3=@@You have some back up, make sure that both you and your ally survives.
+; 4=@@Good luck.
 
 [GAPLUG3]
 TechLevel=10
