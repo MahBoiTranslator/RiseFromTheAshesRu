@@ -27,5 +27,5 @@ jobs:
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: TSTW_RU-${{github.sha}}
+          name: RFTA_RU-${{github.sha}}
           path: Build/**
